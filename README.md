@@ -1,6 +1,6 @@
 
 
-[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](http://www.youtube.com/watch?v=--b-9HrKK6w)
+![](audi_rs7.jpeg)
 
 
 ![](https://img.shields.io/badge/Undergraduate%20School-United%20International%20College%20(BNU--HKUBU%20UIC)-informational) ![](https://img.shields.io/badge/Programme-Data%20Science-brightgreen)
@@ -9,7 +9,10 @@
 
 🔭 I’m currently working on Huawei Technologies Co., Ltd. (Summer Intership Programme)
 
+😄 And I am going to study in HKUST from Aug 2021 to Aug 2022
 📫 My Email: yqiuau@connect.ust.hk
+
+
 
 <!--
 **shawinbetter/shawinbetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
