@@ -3,6 +3,7 @@
 ![](https://img.shields.io/badge/Post--Graduate%20School-Hong%20Kong%20University%20of%20Science%20and%20Technology%20(HKUST)-critical) ![](https://img.shields.io/badge/Programme-Big%20Data%20Technology-brightgreen)
 
 🔭 I’m currently working on Huawei Technologies Co., Ltd. (Summer Intership Programme)
+
 📫 My Email: yqiuau@connect.ust.hk
 
 <!--
