@@ -1,7 +1,6 @@
 
 
-https://user-images.githubusercontent.com/39615666/127873277-f661ac53-63b9-4166-acb1-d19fe40600b9.mov
-
+[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](http://www.youtube.com/watch?v=--b-9HrKK6w)
 
 
 ![](https://img.shields.io/badge/Undergraduate%20School-United%20International%20College%20(BNU--HKUBU%20UIC)-informational) ![](https://img.shields.io/badge/Programme-Data%20Science-brightgreen)
