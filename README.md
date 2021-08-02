@@ -1,4 +1,4 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/40WM9v5PWPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video src="https://youtu.be/40WM9v5PWPE" width="1080px" height="540px" controls="controls"></video>
 
 ![](https://img.shields.io/badge/Undergraduate%20School-United%20International%20College%20(BNU--HKUBU%20UIC)-informational) ![](https://img.shields.io/badge/Programme-Data%20Science-brightgreen)
 
